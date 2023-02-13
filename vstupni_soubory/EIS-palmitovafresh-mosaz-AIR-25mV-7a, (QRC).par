@@ -1,0 +1,18 @@
+09.27.2019, 10:46:27
+...\All Users\Documents\My Gamry Data\PCM\EIS-palmitovafresh-mosaz-AIR-25mV-7a, (QRC).par
+
+  1                             = detect the sign of Zim         
+  1                             = modulus weighting factor   
+1.000                        = sample area in square cm 
+(QRC)
+8.652e-03          6     = chi squared, # of iters 
+
+index   fixed    parameter      start               end        rel. std. error (%) 
+-------  ------  ----------     --------            -----      ------------ 
+    1       0        Q-Yo      3.013E-10      3.013E-10          49.12 
+    2       0         Q-n         0.4245         0.4243          25.64 
+    3       0          R         4.207E8        4.207E8          8.346 
+    4       0          C         8.25E-9      8.251E-11          2.098 
+-------------------------------------------------------------------------------------
+
+Measurement errors in impedance data = < 9.302 pct.        
